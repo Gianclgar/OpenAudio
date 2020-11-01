@@ -26,7 +26,7 @@ Audio Plugins
 | [CHOW](https://github.com/jatinchowdhury18/CHOW) | A maximally truculent distortion effect | Effect | JUCE |
 | [Cloud Seed](https://github.com/ValdemarOrn/CloudSeed) | Algorithmic reverb for emulating huge, endless spaces and modulated echoes | Effect |  |
 | [Cocoa Delay](https://github.com/tesselode/cocoa-delay) | Warm and lively delay | Effect | WDL-OL |
-| [Convolver](https://github.com/teragonaudio/Convolver) | Impulse-response reverb | Effect | VSTGUI, JUCE |
+| [Convolver (Not maintained)](https://github.com/teragonaudio/Convolver) | Impulse-response reverb | Effect | VSTGUI, JUCE |
 | [Dexed](https://github.com/asb2m10/dexed) | DX7 FM plugin synth | Instrument | JUCE |
 | [Digits](https://github.com/LouisGorenfeld/DigitsVst) | Phase-distortion synth inspired by Casio CZ series | Instrument | VSTGUI |
 | [Distrho glBars](https://github.com/DISTRHO/glBars) | OpenGL bars visualization plugin (as seen in XMMS and XBMC/Kodi) adapted from jack_glbars | Effect | DPF |
